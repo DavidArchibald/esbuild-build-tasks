@@ -61,7 +61,7 @@ jobs:
             - name: Publish to npm
               run: |
                   yarn config set npmAuthToken ${NPM_TOKEN}
-                  yarn npm publish --ignore-scripts
+                  yarn npm publish
               env:
                   NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
 
