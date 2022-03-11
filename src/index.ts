@@ -1,4 +1,4 @@
-export { buildTasksPlugin } from "./plugin";
+export { tasksPlugin } from "./plugin";
 
 export { ProcessTask } from "./processTask";
 export { PackageScriptTask } from "./packageScriptTask";

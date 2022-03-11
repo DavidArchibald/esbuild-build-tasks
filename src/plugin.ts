@@ -23,7 +23,7 @@ type ResolvedConfig = {
 	// taskTerminateTimeout: number;
 };
 
-export const buildTasksPlugin = (config: Config) => {
+export const tasksPlugin = (config: Config) => {
 	// const { log, taskTimeout, taskTerminateTimeout } = config;
 	const resolvedConfig: ResolvedConfig = {
 		...config,

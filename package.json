@@ -4,7 +4,7 @@
 	"files": [
 		"dist"
 	],
-	"version": "0.1.3",
+	"version": "0.1.4",
 	"description": "A plugin for ESBuild to make working with Foundry modules and systems easier.",
 	"license": "MIT",
 	"homepage": "https://github.com/DavidArchibald/esbuild-tasks-plugin/",
