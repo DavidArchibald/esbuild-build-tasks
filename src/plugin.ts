@@ -33,7 +33,7 @@ export const buildTasksPlugin = (config: Config) => {
 	};
 
 	const plugin: Plugin = {
-		name: "build-tasks-plugin",
+		name: "esbuild-tasks-plugin",
 		setup(build) {
 			build.onStart(async () => {
 				if (resolvedConfig.log === "log-all") {
