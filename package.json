@@ -30,7 +30,7 @@
 		"@typescript-eslint/eslint-plugin": "^5.0.0",
 		"@typescript-eslint/parser": "^5.0.0",
 		"detect-package-manager": "^2.0.1",
-		"esbuild": "^0.14.25",
+		"esbuild": "^0.15.14",
 		"esbuild-node-externals": "^1.4.1",
 		"eslint": "^8.10.0",
 		"eslint-config-airbnb-base": "^15.0.0",
